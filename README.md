@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awkward-willy&theme=gruvbox)
+
 ### About me:
 - 🔭 I'm currently studying in NCU, Taiwan
 - 🌱 I'm currently learning everything about CS
